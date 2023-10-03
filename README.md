@@ -11,4 +11,4 @@ Foi trabalhado bastante a responsividade para técnica mobile-first.
 
 ![miniatura-img-street-fighter03](https://user-images.githubusercontent.com/56524332/232970859-9975804f-bebb-42bc-93c2-144f15f547dc.JPG)
 
-GitHub Pages: https://lnkd.in/dmePmwsq
+GitHub Pages: [https://lnkd.in/dmePmwsq](https://vinnymoraes-dev.github.io/art-streetfighter/)https://vinnymoraes-dev.github.io/art-streetfighter/
